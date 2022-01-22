@@ -1,0 +1,77 @@
+@media (max-width: 640px) and (orientation: landscape) {
+  main .subtitulo {
+    margin: 25px 50px;
+    text-align: justify;
+  }
+
+  main .passageiros {
+    width: 500px;
+  }
+
+  .block-one h2 {
+    font-size: 23px;
+  }
+
+  .block-one p {
+    font-size: 15px;
+    margin-top: 20px;
+    text-align: justify;
+    width: 280px;
+  }
+
+  .block-two img {
+    width: 250px;
+    margin-top: 2px;
+    margin-left: 50px;
+  }
+
+  .section-two h2 {
+    font-size: 20px;
+  }
+
+  .section-two img {
+    margin-top: -30px;
+    margin-right: 50px;
+    width: 250px;
+  }
+
+  .section-two p {
+    width: 250px;
+  }
+
+  .section-three h2 {
+    font-size: 20px;
+  }
+
+  .section-three p {
+    width: 250px;
+  }
+
+  .section-three img {
+    margin-top: -40px;
+    width: 250px;
+    margin-left: 50px;
+  }
+
+  .section-four h2 {
+    font-size: 35px;
+  }
+
+  .section-four p {
+    margin: 25px 50px 30px 50px;
+  }
+
+  .section-four img {
+    width: 500px;
+  }
+
+  .rodape img {
+    display: none;
+    width: 200px;
+  }
+
+  footer .rodape {
+    font-size: 0.9rem;
+    gap: 30px;
+  }
+}

@@ -1,0 +1,124 @@
+@media screen and (min-width: 378px) and (max-width: 414px) {
+  button {
+    display: block;
+    margin: auto;
+  }
+
+  header {
+    justify-content: space-around;
+    gap: 120px;
+  }
+
+  header .logo {
+    width: 180px;
+    padding: 0;
+  }
+
+  article {
+    margin-top: 25px;
+  }
+
+  main {
+    height: 450px;
+  }
+
+  main h1 {
+    font-size: 2.4rem;
+    padding-top: 25px;
+  }
+
+  main .subtitulo {
+    margin: 15px 27px;
+    text-align: justify;
+  }
+
+  main .passageiros {
+    width: 350px;
+  }
+
+  .section-one {
+    flex-wrap: wrap;
+  }
+
+  .section-two {
+    flex-wrap: wrap;
+  }
+
+  .section-three {
+    flex-wrap: wrap;
+    margin-top: 40px;
+  }
+
+  .block-one {
+  }
+
+  .block-one h2 {
+    font-size: 1.8rem;
+    text-align: center;
+  }
+
+  .block-one p {
+    width: 370px;
+    margin: 15px 0px;
+  }
+
+  .block-one button {
+  }
+
+  .block-two img {
+    width: 200px;
+    margin-top: 25px;
+  }
+
+  .section-two img {
+    width: 200px;
+    margin-bottom: 25px;
+  }
+
+  .section-two h2 {
+    font-size: 1.8rem;
+    text-align: center;
+  }
+
+  .section-two p {
+    width: 370px;
+    margin: 15px 0px;
+  }
+
+  .section-three h2 {
+    font-size: 1.8rem;
+    text-align: center;
+  }
+
+  .section-three p {
+    width: 370px;
+    margin: 15px 0px;
+  }
+
+  .section-three img {
+    width: 200px;
+  }
+
+  .section-four h2 {
+    font-size: 1.3rem;
+    text-align: center;
+  }
+
+  .section-four p {
+    width: 360px;
+    text-align: center;
+    margin: 15px 15px;
+  }
+
+  .section-four img {
+    width: 350px;
+  }
+
+  .section-four button {
+    margin-bottom: 30px;
+  }
+
+  footer {
+    display: none;
+  }
+}
