@@ -1,0 +1,51 @@
+.blur {
+  filter: blur(7px);
+  transition: all ease 100ms;
+}
+
+.lista-menu {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+  position: absolute;
+  top: 0;
+  right: 0;
+  background-color: #ffffff;
+  color: black;
+  width: 320px;
+  height: 100%;
+}
+
+.lista-menu {
+  font-size: 1.5rem;
+}
+
+.lista-menu li:nth-child(3) {
+  font-size: 1.5rem;
+  font-weight: 800;
+  background-color: #48cafd;
+  color: #29417c;
+  border-radius: 10px;
+  padding: 15px 15px;
+}
+
+.lista-menu li:nth-child(3):hover {
+  color: #fff;
+  transition: all ease 300ms;
+  cursor: pointer;
+}
+
+.aviao {
+  margin-top: 20px;
+  width: 250px;
+}
+
+.buttonClose {
+  margin-left: 220px;
+  margin-top: 10px;
+}
+
+.imgClose {
+  width: 50px;
+}
